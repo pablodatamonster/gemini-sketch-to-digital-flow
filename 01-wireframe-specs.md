@@ -10,18 +10,25 @@
 ---
 
 ## 2. Instrucciones y Prompt Sugerido (Español)
-**Paso 1:** Descarga este archivo y súbelo a Gemini junto con la foto de tu boceto.
 
-**Paso 2:** Usa el siguiente prompt:
+Convierte este bosquejo de panel de control dibujado a mano en un prototipo digital limpio, solo en tinta negra, preservando todos los gráficos, KPIs, etiquetas, espaciado y estructura exactamente como se muestra.
 
-> "Hola Gemini. Usando las especificaciones que subí en 01-wireframe-specs.md, por favor convierte este boceto dibujado a mano en un wireframe digital profesional. Recuerda usar líneas gris claro (#D3D3D3) y tipografía limpia (Inter/Roboto) sobre un lienzo A4 horizontal. Genera la imagen final ahora."
+## 1. Lienzo y formato
+* Utiliza un lienzo **A4 horizontal** (297 mm x 210 mm).
+* Mantén un aspecto **minimalista y limpio** con trazos negros finos y mucho espacio en blanco.
+* **No** añadas colores, sombreados, degradados ni efectos.
 
----
+## 2. Reproducción del diseño
+* Recrea el prototipo con las **mismas proporciones** y relaciones entre cuadros que el boceto adjunto.
 
-## 3. Technical Specifications
-* **Model:** Nano Banana 2 (Gemini 3 Flash Image).
-* **Canvas:** A4 Landscape (297mm × 210mm).
-* **Style:** Low-fidelity "Blueprints." Use light grey (#D3D3D3) for all structural outlines.
-* **Layout:** 1:1 spatial mapping from the sketch. Maintain exact box ratios and white space.
-* **Typography:** Use Inter or Roboto. All labels must be centered within their boxes.
-* **Constraints:** No charts, icons, or shading. Focus entirely on architecture.
+## 3. Requisitos de estilo
+* **Solo arte de línea negro:** peso de trazo fino y consistente.
+* Ningún color excepto el negro puro.
+* Utiliza una **tipografía sans-serif limpia** (Roboto/Inter) o un estilo digital manuscrito prolijo.
+* Combina la soltura del boceto sin que parezca desordenado.
+* Mantén todo el espacio en blanco, los márgenes y el espaciado respetando el dibujo original.
+
+## 4. Salida
+* Devuelve un **único prototipo completo** del panel de control (no componentes separados).
+* Asegúrate de que todos los gráficos, KPIs, etiquetas y elementos estructurales aparezcan exactamente como se dibujaron.
+* Coincide con las proporciones de diseño de la imagen de referencia.
