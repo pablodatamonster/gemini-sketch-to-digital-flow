@@ -1,5 +1,5 @@
 # 01 - Google Nano Banana: Wireframe Creation
-
+ 
 ## 1. Instructions and Suggested Prompt (English)
 **Step 1:** Download this file and upload it to Gemini along with your hand-drawn sketch.
 
