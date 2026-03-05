@@ -2,6 +2,7 @@
 
 ## 1. Instructions and Suggested Prompt (English)
 **Step 1:** Download this file and upload it to Gemini along with your digital wireframe and logo.
+
 **Step 2:** Use the following prompt:
 
 > "Hi Gemini. Based on the 03-prototype-specs.md file, create a high-fidelity prototype. Use the wireframe as a guide, apply the attached logo, and follow the corporate color palette. Generate the final image now."
